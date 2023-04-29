@@ -1,0 +1,26 @@
+body {
+	background-color: black;
+}
+
+.main1 
+{
+	text-align:center;
+	font-size: 30px;
+	width: 1509px;
+	height: 50px; 
+	background-color:white;
+	font-size: 50px;
+	
+	
+}
+.para1
+{
+	text-align:center;
+	font-size: 30px;
+	width: 1490px;
+	height: 700px; 
+	background-color:whitesmoke;
+	text-shadow: grey 10px 10px 10px;
+	border: 10px outset yellow;
+	float: bottom;
+}
